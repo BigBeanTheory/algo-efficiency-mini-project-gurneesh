@@ -9,7 +9,7 @@ A hands-on analysis of common recursive and iterative algorithms with empirical 
 
 ## Repository layout
 - algo_analysis_notebook.ipynb — all implementations, benchmarks, plots, and analysis.
-- images/ — exported figures from the notebook (PNG).
+- images — exported figures from the notebook (PNG).
 - requirements.txt — pinned minimal dependencies.
 - .gitignore — ignores environment and cache artifacts.
 - README.md — this document.
