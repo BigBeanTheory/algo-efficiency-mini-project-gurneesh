@@ -64,15 +64,15 @@ In the notebook, **Run All** from top to bottom. This:
 The notebook automatically generates and saves figures illustrating execution time vs input size for different algorithms:
 
 ### Fibonacci Implementations
-![Fibonacci Implementations](images/fib_impl.png)  
+![Fibonacci Implementations](fib_impl.png)  
 *Recursive vs dynamic programming Fibonacci. Recursive execution grows exponentially, while the DP/iterative version remains linear and efficient.*
 
 ### Sorting Algorithms
-![Sorting Algorithms](images/sort_algos.png)  
+![Sorting Algorithms](sort_algos.png)  
 *Execution time vs input size for Merge Sort, Quick Sort, Bubble Sort, Insertion Sort, and Selection Sort. Merge and Quick show O(n log n) scaling, while quadratic algorithms grow much faster.*
 
 ### Binary Search
-![Binary Search](images/search_impl.png)  
+![Binary Search](search_impl.png)  
 *Execution time vs input size for iterative binary search. Growth is nearly flat even for very large n, aligning with O(log n).*
 
 ---
